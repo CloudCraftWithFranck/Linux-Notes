@@ -1,0 +1,17 @@
+Basic commands to know while starting linux OS.
+Remember that linux is based on command lines, and its an open source. Open Source means you can modify it to use the way you want. There are some commands to remember.
+Once you login to use command line, you will see a $ sign which means you are running as a user; therefore, you cannot modilfy anything or run any command. To run any command you need to switch from user to super user(called admin in windows). The command use for the purpose will be "sudo". The next step will be to enter your username and passport to confirm you are the owner. Once its done, you can now run anything you want. Here is an example:
+GUI: Graphic User Interface. This is everything you have or see in your screen when your interface linux is on.
+CLI: Command Line Interface. Here is the area where you can type all commands you need to do whatever you want.
+PWD: Print Working Directory. It is to display the directory you are workin on.
+LS: List the content of the directory you are on.
+Clear: to delete and go back to the main Directory
+CD: Use to navigate between folders and directories
+Cd / : to access to the root Directory
+Cd .. : to go one step back
+Cp: to copy
+rm: to remove the file or delete
+mkdir: to make a new empty folder
+rmdir: to delete an empty folder
+rm -r: to remove or delete a folder with a content
+man: to list whatever is there to know.
