@@ -1,2 +1,2 @@
-### 💻 Retro Terminal Greeting:
-[![Terminal Greeting](https://asciinema.org/a/your-terminal-id)](https://asciinema.org/a/your-terminal-id)
+### 🐍 Play Snake:
+![Snake animation](https://github.com/CloudCraftWithFranck/CloudCraftWithFranck/blob/output/github-contribution-grid-snake.svg)
